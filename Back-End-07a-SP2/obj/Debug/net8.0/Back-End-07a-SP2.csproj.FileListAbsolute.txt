@@ -1,0 +1,15 @@
+C:\Users\oiurisoares\Downloads\Senai-Fullstack\Back-End-07a-SP2\bin\Debug\net8.0\Back-End-07a-SP2.exe
+C:\Users\oiurisoares\Downloads\Senai-Fullstack\Back-End-07a-SP2\bin\Debug\net8.0\Back-End-07a-SP2.deps.json
+C:\Users\oiurisoares\Downloads\Senai-Fullstack\Back-End-07a-SP2\bin\Debug\net8.0\Back-End-07a-SP2.runtimeconfig.json
+C:\Users\oiurisoares\Downloads\Senai-Fullstack\Back-End-07a-SP2\bin\Debug\net8.0\Back-End-07a-SP2.dll
+C:\Users\oiurisoares\Downloads\Senai-Fullstack\Back-End-07a-SP2\bin\Debug\net8.0\Back-End-07a-SP2.pdb
+C:\Users\oiurisoares\Downloads\Senai-Fullstack\Back-End-07a-SP2\obj\Debug\net8.0\Back-End-07a-SP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oiurisoares\Downloads\Senai-Fullstack\Back-End-07a-SP2\obj\Debug\net8.0\Back-End-07a-SP2.AssemblyInfoInputs.cache
+C:\Users\oiurisoares\Downloads\Senai-Fullstack\Back-End-07a-SP2\obj\Debug\net8.0\Back-End-07a-SP2.AssemblyInfo.cs
+C:\Users\oiurisoares\Downloads\Senai-Fullstack\Back-End-07a-SP2\obj\Debug\net8.0\Back-End-07a-SP2.csproj.CoreCompileInputs.cache
+C:\Users\oiurisoares\Downloads\Senai-Fullstack\Back-End-07a-SP2\obj\Debug\net8.0\Back-End-07a-SP2.sourcelink.json
+C:\Users\oiurisoares\Downloads\Senai-Fullstack\Back-End-07a-SP2\obj\Debug\net8.0\Back-End-07a-SP2.dll
+C:\Users\oiurisoares\Downloads\Senai-Fullstack\Back-End-07a-SP2\obj\Debug\net8.0\refint\Back-End-07a-SP2.dll
+C:\Users\oiurisoares\Downloads\Senai-Fullstack\Back-End-07a-SP2\obj\Debug\net8.0\Back-End-07a-SP2.pdb
+C:\Users\oiurisoares\Downloads\Senai-Fullstack\Back-End-07a-SP2\obj\Debug\net8.0\Back-End-07a-SP2.genruntimeconfig.cache
+C:\Users\oiurisoares\Downloads\Senai-Fullstack\Back-End-07a-SP2\obj\Debug\net8.0\ref\Back-End-07a-SP2.dll
