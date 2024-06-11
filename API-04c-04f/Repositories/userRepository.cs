@@ -14,8 +14,9 @@ namespace Exo.WebApi.Repositories
         public User Login(string email, string password)
         {
             return _context.Users.FirstOrDefault(u => u.Email ==
-            email && u.Password == password);
+             email && u.Password == password);
         }
+
         public List<User> List()
         {
             return _context.Users.ToList();

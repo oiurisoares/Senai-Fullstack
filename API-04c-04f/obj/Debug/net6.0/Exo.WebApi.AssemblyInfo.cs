@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Exo.WebApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+10499d320ad65df6ea5a2b1a0731bfa911fc9e1f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+63eb65a24f87c18fe935fa4ffe13a2d98fdc1f62")]
 [assembly: System.Reflection.AssemblyProductAttribute("Exo.WebApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Exo.WebApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
